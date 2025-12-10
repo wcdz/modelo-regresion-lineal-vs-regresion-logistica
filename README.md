@@ -5,18 +5,14 @@
 
 ## 🎉 ESTADO DEL PROYECTO
 
-**✅ NOTEBOOKS CREADOS Y LISTOS PARA USAR**
-
-Los 5 notebooks ya están creados en la carpeta `notebooks/` con su estructura completa:
+**✅ NOTEBOOKS**
 
 1. **01_EDA_Completo.ipynb** → Pregunta 3 (Análisis Exploratorio)
 2. **02_Preprocesamiento.ipynb** → Pregunta 4 (División de datos)
 3. **03_Modelo1_RegresionLogistica.ipynb** → Pregunta 5 (Modelo 1)
 4. **04_Modelo2_RegresionLineal.ipynb** → Pregunta 5 (Modelo 2)
 5. **05_Comparacion_Validacion_Final.ipynb** → Pregunta 6 (Validación)
-
-📝 **Ver `GUIA_IMPLEMENTACION.md` para el código completo de cada celda**
-
+   
 ---
 
 ## 📊 RESUMEN EJECUTIVO
